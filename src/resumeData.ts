@@ -5,6 +5,8 @@ let resumeData = {
     "linkedinId":"Harsh Shah",
     "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies.",
+    "mobile":"6353142650",
+    "email":"harshshah39609@gmail.com",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -18,8 +20,7 @@ let resumeData = {
         },
       ],
     "aboutme":"I am a Fresher Who Completed B.tech from The Charotar Univercity of Science & Technology. I am a self taught Full Stack Web Developer, currently diving deeper into Javascripts. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "address":"Nadiad,Gujarat",
     "education":[
       {
         "UniversityName":"Charotar Univercity of Science & Technology",
